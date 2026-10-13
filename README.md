@@ -6,7 +6,7 @@
 <!-- Texte animé -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+%40+IMT+Nord+Europe+%F0%9F%8E%93;Machine+Learning+%26+S%C3%A9ries+temporelles+%F0%9F%93%88;Vision+par+ordinateur+2D%2F3D+%F0%9F%9A%97;IA+g%C3%A9n%C3%A9rative+%26+RAG+%F0%9F%A4%96;Je+recherche+un+stage+PFE+de+6+mois+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+%40+IMT+Nord+Europe+%F0%9F%8E%93;Machine+Learning+%26+S%C3%A9ries+temporelles+%F0%9F%93%88;Vision+par+ordinateur+2D%2F3D+%F0%9F%9A%97;IA+g%C3%A9n%C3%A9rative+%26+RAG+%F0%9F%A4%96;Une+IA+utile%2C+responsable+et+orient%C3%A9e+impact+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/dogui-farah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:farah.dogui@etu.imt-nord-europe.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📍_Lille,_France-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-PFE_6_mois-00C6FF?style=for-the-badge" />
 </p>
 
 ---
@@ -28,7 +27,6 @@ class FarahDogui:
         self.base       = "Lille, France 🇫🇷"
         self.mission    = "Transformer la donnée en leviers de prédiction, d'optimisation et de performance"
         self.domaines   = ["Machine Learning", "Séries temporelles", "Vision 3D", "IA générative / RAG"]
-        self.recherche  = "Stage de fin d'études (PFE) — 6 mois"
         self.langues    = {"Français": "C1", "Anglais": "B2", "Espagnol": "A1"}
 
     def motto(self):
@@ -175,20 +173,8 @@ Transport de neutrons dans l'uranium naturel et calcul du facteur k_eff *(projet
 
 ---
 
-## 📊 Statistiques GitHub
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farahdogui&show_icons=true&theme=radical&hide_border=true&locale=fr" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahdogui&layout=compact&theme=radical&hide_border=true&locale=fr" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=farahdogui&theme=radical&hide_border=true&locale=fr" />
-</p>
-
----
-
-<p align="center">
-  <b>📬 Parlons IA, data ou stage PFE : construisons ensemble quelque chose d'utile ! 🚀</b>
+  <b>📬 Parlons IA et data : construisons ensemble quelque chose d'utile ! 🚀</b>
 </p>
 
 <p align="center">
