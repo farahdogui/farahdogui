@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Farah%20Dogui&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%26%20Intelligence%20Artificielle&descAlignY=58&descSize=20&animation=fadeIn" alt="Farah Dogui" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Farah%20Dogui&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20et%20Intelligence%20Artificielle&descAlignY=58&descSize=20" alt="Farah Dogui" />
 </p>
 
 <!-- Texte animé -->
