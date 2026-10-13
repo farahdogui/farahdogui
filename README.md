@@ -10,10 +10,11 @@
   </a>
 </p>
 
+<h3 align="center">📬 Contact me</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dogui-farah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:farah.dogui@etu.imt-nord-europe.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍_Lille,_France-7F00FF?style=for-the-badge" />
+  <a href="mailto:farah.dogui@etu.imt-nord-europe.fr"><img src="https://img.shields.io/badge/Email-farah.dogui%40etu.imt--nord--europe.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dogui-farah-784784242/"><img src="https://img.shields.io/badge/LinkedIn-Farah_Dogui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,7 +25,6 @@
 class FarahDogui:
     def __init__(self):
         self.ecole      = "IMT Nord Europe — Responsable IA & Science des Données"
-        self.base       = "Lille, France 🇫🇷"
         self.mission    = "Transformer la donnée en leviers de prédiction, d'optimisation et de performance"
         self.domaines   = ["Machine Learning", "Séries temporelles", "Vision 3D", "IA générative / RAG"]
         self.langues    = {"Français": "C1", "Anglais": "B2", "Espagnol": "A1"}
